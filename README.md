@@ -6,7 +6,7 @@
 
 - I'm a pre final year B.tech Student having speacialization area in Information Technology.
  
-<!-- Check out my [LinkTree](https://linktr.ee/ut_op) for more information about my projects and experience. -->
+Check out my [LinkTree](https://linktr.ee/mukesh0902) for more information about my projects and experience.
 
 ---
 
@@ -94,7 +94,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mukesh-kumar-b44595239"><img alt="linkedin" height="50px" style="padding:5px; vertical-align: middle;" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png"/></a>   
-  <a href="https://linktr.ee/ut_op"><img alt="linktree" height="50px" style="padding-bottom:5px; vertical-align: middle;" src="https://ph-files.imgix.net/0184521c-c83a-4810-92e7-e27474c3e738?auto=format&fit=crop&h=512&w=1024"/></a>
+  <a href="https://linktr.ee/mukesh0902"><img alt="linktree" height="50px" style="padding-bottom:5px; vertical-align: middle;" src="https://ph-files.imgix.net/0184521c-c83a-4810-92e7-e27474c3e738?auto=format&fit=crop&h=512&w=1024"/></a>
 </p>
 
 ---
