@@ -1,12 +1,20 @@
-<h1 align="center">Hi there, I'm Mukesh Kumar 👋</h1>
+<h1 align="center">Hi there 👋, I'm Mukesh Kumar</h1>
+<h3 align="center">A Final-Year B.Tech IT Student | MERN Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  🚀 Final-year B.Tech student specializing in Information Technology <br>
-  💻 Passionate Full-Stack Developer focused on MERN stack & modern web tech <br>
-  🌍 Based in Chandauli, Uttar Pradesh, India <br>
-  📫 Reach me at: <a href="mailto:ku.mukesh8474@gmail.com">ku.mukesh8474@gmail.com</a> <br>
-  🔗 Check out my <a href="https://linktr.ee/mukesh0902">LinkTree</a> for more links!
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer" alt="Typing SVG" /></p>
+  
+---
+
+## 💡 About Me:
+
+- 🎓 I'm a **final year B.Tech IT student** at AITD.
+- 💻 Passionate about **web development**, especially using the **MERN stack**.
+- 🌍 Based in Chandauli, Uttar Pradesh, India <br>
+- 🤝 Open to **collaborations** on frontend, full-stack or creative projects.
+- 🎯 Goal: Build scalable & impactful products that solve real problems.
+- ✉️ Reach me at: **[ku.mukesh8474@gmail.com](mailto:ku.mukesh8474@gmail.com)**
+
 
 ---
 
@@ -17,6 +25,17 @@
 - REST APIs & JWT Authentication
 - System Design basics
 - Testing with Jest & React Testing Library
+
+---
+### 🌐 Online Presence:
+
+<p align="center">
+  <a href="mailto:ku.mukesh8474@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mukesh-kumar-b44595239/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/mukesh0902/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://github.com/mukesh0902"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linktr.ee/mukesh0902"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white"></a>
+</p>
 
 ---
 
@@ -73,27 +92,26 @@
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukesh0902&theme=darkhub&no-frame=true&no-bg=true&column=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mukesh0902&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats & Activity:
 
 <p align="center">
   <img src="https://readme-stats-hazel-two.vercel.app/api?username=mukesh0902&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukesh0902&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukesh0902&theme=monokai"/>
 </p>
 
 ---
 
-## 📌 Most Used Languages
+### 💬 Most Used Languages:
 
 <p align="center">
   <img src="https://readme-stats-hazel-two.vercel.app/api/top-langs/?username=mukesh0902&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
@@ -101,29 +119,24 @@
 
 ---
 
-## 📉 Contribution Graph
+### 🐍 GitHub Contribution Snake:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mukesh0902&theme=radical&ring=DD2727&fire=DD2727&dates=DD6227&sideNums=176FC5&sideLabels=1E90FF" />
+  <img src="https://raw.githubusercontent.com/mukesh0902/mukesh0902/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📬 Connect with Me
+### 📞 Contact Me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mukesh-kumar-b44595239">
-    <img alt="LinkedIn" height="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linktr.ee/mukesh0902">
-    <img alt="Linktree" height="40px" src="https://ph-files.imgix.net/0184521c-c83a-4810-92e7-e27474c3e738?auto=format&fit=crop&h=512&w=1024" />
-  </a>
+  <a href="https://www.linkedin.com/in/mukesh-kumar-b44595239"><img alt="linkedin" height="50px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG14.png"/></a>   
+  <a href="https://linktr.ee/mukesh0902"><img alt="linktree" height="50px" src="https://ph-files.imgix.net/0184521c-c83a-4810-92e7-e27474c3e738?auto=format&fit=crop&h=512&w=1024"/></a>
 </p>
 
 ---
 
-## 👀 Visitor Count
+### 👁️ Visitor Count:
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/mukesh0902/count.svg" />
