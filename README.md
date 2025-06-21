@@ -1,16 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Mukesh Kumar</h1>
-<h3 align="center">A Final-Year B.Tech IT Student | MERN Stack Developer | Tech Enthusiast</h3>
+<h3 align="center">B.Tech(2025) IT Student | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer" alt="Typing SVG" /></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer" alt="Typing SVG" /></p>
   
 ---
 
 ## 💡 About Me:
 
-- 🎓 I'm a **final year B.Tech IT student** at AITD.
-- 💻 Passionate about **web development**, especially using the **MERN stack**.
-- 🌍 Based in Chandauli, Uttar Pradesh, India <br>
+- 🎓 **B.Tech IT - 2025**
+- 🌍 Based in Ghaziabad, Uttar Pradesh, India <br>
 - 🤝 Open to **collaborations** on frontend, full-stack or creative projects.
 - 🎯 Goal: Build scalable & impactful products that solve real problems.
 - ✉️ Reach me at: **[ku.mukesh8474@gmail.com](mailto:ku.mukesh8474@gmail.com)**
@@ -19,12 +18,17 @@
 ---
 
 ## 🧠 Currently Exploring
+- Python for Backend Development
 
-- Advanced React (Hooks, Redux Toolkit)
-- TypeScript & Next.js
+- Flask & Django Frameworks
+
+- Cloud Services with AWS (EC2, S3, Lambda, etc.)
+
+- Artificial Intelligence (AI) with Python
+
 - REST APIs & JWT Authentication
-- System Design basics
-- Testing with Jest & React Testing Library
+
+- System Design Basics
 
 ---
 ### 🌐 Online Presence:
